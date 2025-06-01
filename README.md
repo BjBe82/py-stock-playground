@@ -2,6 +2,8 @@
 
 A Python project for experimenting with stock data analysis and trading strategies.
 
+![App Example](doc/app-example.png)
+
 ## Features
 
 - Fetch and analyze stock market data + visualization
