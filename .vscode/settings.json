@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "[python]": {
+      "editor.codeActionsOnSave": {
+        "source.fixAll": "always",
+        "source.organizeImports.ruff": "always"
+      },
+      "editor.defaultFormatter": "charliermarsh.ruff",
+    },
+    "ruff.lineLength": 120,
+  }
+  
